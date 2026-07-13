@@ -1,0 +1,9 @@
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\controlhook.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\log.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\log.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\main.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\main.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\adapters.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\adapters.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\arp.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\arp.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\disks.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\disks.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\smbios.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\smbios.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\spoofer.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\spoofer.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\utils.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\x64\Release\utils.obj

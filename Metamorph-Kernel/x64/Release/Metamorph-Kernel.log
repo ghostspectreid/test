@@ -1,0 +1,64 @@
+﻿  Building 'Metamorph-Kernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\Metamorph-Kernel.inf
+  Stamping [Version] section with DriverVer=07/11/2026,8.45.8.52
+  controlhook.cpp
+  log.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'controlhook.cpp')
+  
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'log.cpp')
+  
+  main.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+  adapters.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'modules/adapters.cpp')
+  
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\adapters.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+  arp.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'modules/arp.cpp')
+  
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\arp.cpp(11,9): warning C4189: 'length': local variable is initialized but not referenced
+  disks.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'modules/disks.cpp')
+  
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\disks.cpp(63,38): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+  smbios.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'modules/smbios.cpp')
+  
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\modules\smbios.cpp(33,36): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+  spoofer.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'spoofer.cpp')
+  
+  utils.cpp
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\controlhook.h(37,16): warning C4091: 'static ': ignored on left of 'ControlHook::_SWAPS' when no variable is declared
+  (compiling source file 'utils.cpp')
+  
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\utils.cpp(17,61): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\utils.cpp(167,24): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+Z:\SPOOFER\Metamorph-main\Metamorph-Kernel\utils.cpp(188,39): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+  Generating Code...
+  Metamorph-Kernel.vcxproj -> Z:\SPOOFER\Metamorph-main\x64\Release\Metamorph-Kernel.sys
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  Z:\SPOOFER\Metamorph-main\x64\Release\Metamorph-Kernel\metamorph-kernel.cat
+  Set catalog attribute.
+  WdkVersion: 10.0.26100.0
+  Set catalog attribute.
+  WdkAssemblyVersion: 10.0.26100.6584

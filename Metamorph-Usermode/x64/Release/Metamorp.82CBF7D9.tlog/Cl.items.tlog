@@ -1,0 +1,10 @@
+Z:\SPOOFER\Metamorph-main\Shared\console\console.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\console.obj
+Z:\SPOOFER\Metamorph-main\Shared\hash\hash.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\hash.obj
+Z:\SPOOFER\Metamorph-main\Shared\kdmapper\intel_driver.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\intel_driver.obj
+Z:\SPOOFER\Metamorph-main\Shared\kdmapper\kdmapper.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\kdmapper.obj
+Z:\SPOOFER\Metamorph-main\Shared\kdmapper\portable_executable.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\portable_executable.obj
+Z:\SPOOFER\Metamorph-main\Shared\kdmapper\service.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\service.obj
+Z:\SPOOFER\Metamorph-main\Shared\kdmapper\utils.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\utils.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\main.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\main.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\spoofer.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\spoofer.obj
+Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\util.cpp;Z:\SPOOFER\Metamorph-main\Metamorph-Usermode\x64\Release\util.obj
